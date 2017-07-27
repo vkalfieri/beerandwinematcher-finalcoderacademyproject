@@ -1,0 +1,200 @@
+
+
+nav.navbar.navbar-default{
+  background-color:#ED7228;
+  color:black;
+  text-align: center;
+
+
+}
+nav.navbar.navbar-default-1{
+  background-color:#ED7228;
+  color:black;
+  text-align: center;
+}
+
+div.navbar-header{
+  display: inline-block;
+}
+
+ul.nav.navbar-nav a{
+  color:#000
+}
+
+ul.nav.navbar-nav{
+  background-color: #ed7228;
+  display:inline-block;
+  text-align: center;
+
+}
+
+
+
+img.logo{
+  display:flex;
+  margin:auto;
+  height:100px;
+}
+
+div.row{
+  text-align:center;
+  background-color:#ED7228;
+  color:#fff;
+}
+
+h1.menu{
+  background-color:#000;
+}
+
+div#center.col-md-4{
+  margin-left:auto;
+  margin-right:auto;
+}
+
+div#bottom-row.row{
+}
+
+img.cocktail{
+  height:150px;
+}
+
+div#bottom.row{
+  background-color:white;
+}
+
+img.steak{
+  height:150px;
+}
+
+img.chicken{
+  height:150px;
+}
+
+img.dessert{
+  height:150px;
+}
+
+img.redwine{
+  height:150px;
+}
+
+img.whitewine{
+  height:150px;
+}
+
+img.beer{
+  height:150px;
+}
+
+figure.figred{
+
+  margin-left: 150px;
+  width:150px;
+  display:inline-block;
+}
+
+figure.figwhite{
+
+  margin: auto;
+  height:150px;
+  width:150px;
+  display:inline-block;
+}
+
+figure.figbeer{
+
+  margin-right: 150px;
+  align:right;
+  display:inline-block;
+}
+
+figure.figchick{
+  display:inline-block;
+  margin:auto;
+}
+
+figure.figsteak{
+  display:inline-block;
+  margin:auto;
+
+}
+
+figure.figdess{
+  display:inline-block;
+  margin-left: auto;
+}
+
+figure.figtail{
+  display:inline-block;
+
+  margin: auto;
+}
+
+h4.BWS{
+  text-align:center;
+}
+
+div.navbar-header{
+  text-align:center;
+}
+
+article.rwmatch{
+  display:flex;
+  flex-wrap:wrap;
+
+  height:100px;
+}
+
+div.col-md-4{
+  display:initial;
+  width:500px;
+  height:150px;
+}
+
+p{
+  display:inline-block;
+}
+
+p.rwmatch{
+  display: inline-block;
+  width:400px;
+  text-align:justify;
+}
+
+figure.figwhite_1{
+  width:100px;
+  margin-right:75px;
+  margin-left:55px;
+  display:inline-block;
+}
+
+p.wwmatch{
+  width:400px;
+  text-align:justify;
+}
+
+figure.beer{
+
+  display:inline-block;
+}
+
+div.imagebox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+p.sectionlink{
+  margin: auto;
+  display:inline-block;
+}
+
+div.sectionlink-1{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+div.rumtab{
+  display:flex;
+  flex-wrap: wrap;
+}
